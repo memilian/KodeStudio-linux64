@@ -1,0 +1,6 @@
+[submodule "resources/app/extensions/vscode-icons"]
+	path = resources/app/extensions/vscode-icons
+	url = git@github.com:vscode-icons/vscode-icons.git
+[submodule "resources/app/extensions/gitHistoryVSCode"]
+	path = resources/app/extensions/gitHistoryVSCode
+	url = git@github.com:DonJayamanne/gitHistoryVSCode.git
